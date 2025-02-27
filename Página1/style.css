@@ -1,0 +1,8 @@
+.row1{
+    display: inline-flex;
+    gap: 10px;
+}
+.row2{
+    display: contents;
+    gap: 10px;
+}
