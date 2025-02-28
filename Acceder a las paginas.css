@@ -1,0 +1,28 @@
+#principal{
+    width: 1200px;
+    margin: auto;
+}
+body{
+    background-color: #7091E6;
+    align-items: center;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#enlaces{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    padding: 40px 120px;
+    background-color: #EDE8F5;
+    border-radius: 12PX;
+}
+#enlaces div{
+    text-align: center;
+}
+#enlaces div a{
+    text-decoration: none;
+}
