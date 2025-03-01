@@ -1,8 +1,20 @@
+@import url('https://fonts.cdnfonts.com/css avenir');                
 #principal{
     width: 1440px;
     height: 1204px;
     margin: auto;
+    background-color: rgba(255, 255, 255, 1);
 }
 #texto{
     display: flex;
+}
+main{
+    font-family: 'Avenir', sans-serif;
+}
+body{
+    background-color: grey;
+}
+h1{
+    font-size: 88px;
+    
 }
