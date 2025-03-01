@@ -1,0 +1,8 @@
+#principal{
+    width: 1440px;
+    height: 1204px;
+    margin: auto;
+}
+#texto{
+    display: flex;
+}
